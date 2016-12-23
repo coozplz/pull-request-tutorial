@@ -5,3 +5,5 @@ if (b) {
 } else {
 	console.log('This is false');
 }
+
+console.log('helloworld');
