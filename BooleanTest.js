@@ -7,3 +7,4 @@ if (b) {
 }
 
 console.log('helloworld');
+console.log('this is test');
