@@ -6,4 +6,4 @@ if (b) {
 	console.log('This is false');
 }
 
-console.log('Fixed by Song');
+console.log('Fixed by John');
