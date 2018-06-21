@@ -6,4 +6,5 @@ if (b) {
 	console.log('This is false');
 }
 
-console.log('Fixed by Jean')i;
+console.log('helloworld');
+console.log('this is test');
