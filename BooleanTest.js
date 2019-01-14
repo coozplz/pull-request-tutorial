@@ -7,3 +7,5 @@ if (b) {
 }
 
 console.log('Fixed by Choi');
+console.log('helloworld');
+console.log('this is test');
