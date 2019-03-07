@@ -1,4 +1,4 @@
-var b = false;;
+var b = false;
 
 if (b) {
 	console.log('This is true');
@@ -6,5 +6,6 @@ if (b) {
 	console.log('This is false');
 }
 
+console.log('Fixed by Choi');
 console.log('helloworld');
 console.log('this is test');
